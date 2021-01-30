@@ -1,0 +1,7 @@
+/Users/kristinakazistova/CLionProjects/Practice_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kristinakazistova/CLionProjects/Practice_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kristinakazistova/CLionProjects/Practice_1/cmake-build-debug/CMakeFiles/practice.dir
+/Users/kristinakazistova/CLionProjects/Practice_1/cmake-build-debug/CMakeFiles/tests.dir
+/Users/kristinakazistova/CLionProjects/Practice_1/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/Users/kristinakazistova/CLionProjects/Practice_1/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/kristinakazistova/CLionProjects/Practice_1/cmake-build-debug/src/CMakeFiles/SolverLib.dir
